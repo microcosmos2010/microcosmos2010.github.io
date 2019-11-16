@@ -34,5 +34,7 @@ Building Information Modeling zum Erlernen unter [Open BIM](http://http://www.xb
 
 ### Support or Contact
 
+![Rudolf live](https://microcosmos2010.github.com/images/Rudolf live2.jpg)
+
 Rudolf Baier
 Austria
