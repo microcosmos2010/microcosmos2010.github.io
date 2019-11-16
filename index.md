@@ -1,6 +1,6 @@
 ## Welcome to Rudolf´s Page
 
-Fuer Arduino Programierung empfehle ich die  [Sprach-Referenz](https://www.arduino.cc/reference/de/) zum Verstaendnis.
+Für Arduino Programierung empfehle ich die  [Sprach-Referenz](https://www.arduino.cc/reference/de/) zum Verständnis.
 
 Es sollen auch Daten vom Arduino auf der Page dargestellt werden.
 
